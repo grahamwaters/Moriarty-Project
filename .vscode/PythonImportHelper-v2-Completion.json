@@ -1,0 +1,1012 @@
+[
+    {
+        "label": "asyncio",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "asyncio",
+        "description": "asyncio",
+        "detail": "asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "async_playwright",
+        "importPath": "playwright.async_api",
+        "description": "playwright.async_api",
+        "isExtraImport": true,
+        "detail": "playwright.async_api",
+        "documentation": {}
+    },
+    {
+        "label": "async_playwright",
+        "importPath": "playwright.async_api",
+        "description": "playwright.async_api",
+        "isExtraImport": true,
+        "detail": "playwright.async_api",
+        "documentation": {}
+    },
+    {
+        "label": "async_playwright",
+        "importPath": "playwright.async_api",
+        "description": "playwright.async_api",
+        "isExtraImport": true,
+        "detail": "playwright.async_api",
+        "documentation": {}
+    },
+    {
+        "label": "async_playwright",
+        "importPath": "playwright.async_api",
+        "description": "playwright.async_api",
+        "isExtraImport": true,
+        "detail": "playwright.async_api",
+        "documentation": {}
+    },
+    {
+        "label": "async_playwright",
+        "importPath": "playwright.async_api",
+        "description": "playwright.async_api",
+        "isExtraImport": true,
+        "detail": "playwright.async_api",
+        "documentation": {}
+    },
+    {
+        "label": "async_playwright",
+        "importPath": "playwright.async_api",
+        "description": "playwright.async_api",
+        "isExtraImport": true,
+        "detail": "playwright.async_api",
+        "documentation": {}
+    },
+    {
+        "label": "async_playwright",
+        "importPath": "playwright.async_api",
+        "description": "playwright.async_api",
+        "isExtraImport": true,
+        "detail": "playwright.async_api",
+        "documentation": {}
+    },
+    {
+        "label": "Display",
+        "importPath": "pyvirtualdisplay",
+        "description": "pyvirtualdisplay",
+        "isExtraImport": true,
+        "detail": "pyvirtualdisplay",
+        "documentation": {}
+    },
+    {
+        "label": "Display",
+        "importPath": "pyvirtualdisplay",
+        "description": "pyvirtualdisplay",
+        "isExtraImport": true,
+        "detail": "pyvirtualdisplay",
+        "documentation": {}
+    },
+    {
+        "label": "Display",
+        "importPath": "pyvirtualdisplay",
+        "description": "pyvirtualdisplay",
+        "isExtraImport": true,
+        "detail": "pyvirtualdisplay",
+        "documentation": {}
+    },
+    {
+        "label": "Display",
+        "importPath": "pyvirtualdisplay",
+        "description": "pyvirtualdisplay",
+        "isExtraImport": true,
+        "detail": "pyvirtualdisplay",
+        "documentation": {}
+    },
+    {
+        "label": "Display",
+        "importPath": "pyvirtualdisplay",
+        "description": "pyvirtualdisplay",
+        "isExtraImport": true,
+        "detail": "pyvirtualdisplay",
+        "documentation": {}
+    },
+    {
+        "label": "Display",
+        "importPath": "pyvirtualdisplay",
+        "description": "pyvirtualdisplay",
+        "isExtraImport": true,
+        "detail": "pyvirtualdisplay",
+        "documentation": {}
+    },
+    {
+        "label": "Display",
+        "importPath": "pyvirtualdisplay",
+        "description": "pyvirtualdisplay",
+        "isExtraImport": true,
+        "detail": "pyvirtualdisplay",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "phonenumbers",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "phonenumbers",
+        "description": "phonenumbers",
+        "detail": "phonenumbers",
+        "documentation": {}
+    },
+    {
+        "label": "geocoder",
+        "importPath": "phonenumbers",
+        "description": "phonenumbers",
+        "isExtraImport": true,
+        "detail": "phonenumbers",
+        "documentation": {}
+    },
+    {
+        "label": "carrier",
+        "importPath": "phonenumbers",
+        "description": "phonenumbers",
+        "isExtraImport": true,
+        "detail": "phonenumbers",
+        "documentation": {}
+    },
+    {
+        "label": "time_zones_for_number",
+        "importPath": "phonenumbers.timezone",
+        "description": "phonenumbers.timezone",
+        "isExtraImport": true,
+        "detail": "phonenumbers.timezone",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "pytz",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pytz",
+        "description": "pytz",
+        "detail": "pytz",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "BeautifulSoup",
+        "importPath": "bs4",
+        "description": "bs4",
+        "isExtraImport": true,
+        "detail": "bs4",
+        "documentation": {}
+    },
+    {
+        "label": "BeautifulSoup",
+        "importPath": "bs4",
+        "description": "bs4",
+        "isExtraImport": true,
+        "detail": "bs4",
+        "documentation": {}
+    },
+    {
+        "label": "BeautifulSoup",
+        "importPath": "bs4",
+        "description": "bs4",
+        "isExtraImport": true,
+        "detail": "bs4",
+        "documentation": {}
+    },
+    {
+        "label": "BeautifulSoup",
+        "importPath": "bs4",
+        "description": "bs4",
+        "isExtraImport": true,
+        "detail": "bs4",
+        "documentation": {}
+    },
+    {
+        "label": "BeautifulSoup",
+        "importPath": "bs4",
+        "description": "bs4",
+        "isExtraImport": true,
+        "detail": "bs4",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "WSGIServer",
+        "importPath": "gevent.pywsgi",
+        "description": "gevent.pywsgi",
+        "isExtraImport": true,
+        "detail": "gevent.pywsgi",
+        "documentation": {}
+    },
+    {
+        "label": "WSGIServer",
+        "importPath": "gevent.pywsgi",
+        "description": "gevent.pywsgi",
+        "isExtraImport": true,
+        "detail": "gevent.pywsgi",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "url_for",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "url_for",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "Investigation.FindOwner",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "Investigation.FindOwner",
+        "description": "Investigation.FindOwner",
+        "detail": "Investigation.FindOwner",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "importPath": "Investigation.FindOwner",
+        "description": "Investigation.FindOwner",
+        "isExtraImport": true,
+        "detail": "Investigation.FindOwner",
+        "documentation": {}
+    },
+    {
+        "label": "main1",
+        "importPath": "Investigation.FindOwner2",
+        "description": "Investigation.FindOwner2",
+        "isExtraImport": true,
+        "detail": "Investigation.FindOwner2",
+        "documentation": {}
+    },
+    {
+        "label": "Investigation.general",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "Investigation.general",
+        "description": "Investigation.general",
+        "detail": "Investigation.general",
+        "documentation": {}
+    },
+    {
+        "label": "spamMain",
+        "importPath": "Investigation.spamControl",
+        "description": "Investigation.spamControl",
+        "isExtraImport": true,
+        "detail": "Investigation.spamControl",
+        "documentation": {}
+    },
+    {
+        "label": "Investigation.spamControl2",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "Investigation.spamControl2",
+        "description": "Investigation.spamControl2",
+        "detail": "Investigation.spamControl2",
+        "documentation": {}
+    },
+    {
+        "label": "faceMain",
+        "importPath": "Investigation.socialMedia1",
+        "description": "Investigation.socialMedia1",
+        "isExtraImport": true,
+        "detail": "Investigation.socialMedia1",
+        "documentation": {}
+    },
+    {
+        "label": "instaMain",
+        "importPath": "Investigation.socialMedia2",
+        "description": "Investigation.socialMedia2",
+        "isExtraImport": true,
+        "detail": "Investigation.socialMedia2",
+        "documentation": {}
+    },
+    {
+        "label": "twMain",
+        "importPath": "Investigation.socialMedia3",
+        "description": "Investigation.socialMedia3",
+        "isExtraImport": true,
+        "detail": "Investigation.socialMedia3",
+        "documentation": {}
+    },
+    {
+        "label": "goMain",
+        "importPath": "Investigation.socialMedia4",
+        "description": "Investigation.socialMedia4",
+        "isExtraImport": true,
+        "detail": "Investigation.socialMedia4",
+        "documentation": {}
+    },
+    {
+        "label": "micMain",
+        "importPath": "Investigation.socialMedia5",
+        "description": "Investigation.socialMedia5",
+        "isExtraImport": true,
+        "detail": "Investigation.socialMedia5",
+        "documentation": {}
+    },
+    {
+        "label": "getLinks_",
+        "importPath": "Investigation.getLinks",
+        "description": "Investigation.getLinks",
+        "isExtraImport": true,
+        "detail": "Investigation.getLinks",
+        "documentation": {}
+    },
+    {
+        "label": "getComments_",
+        "importPath": "Investigation.getComments",
+        "description": "Investigation.getComments",
+        "isExtraImport": true,
+        "detail": "Investigation.getComments",
+        "documentation": {}
+    },
+    {
+        "label": "_getComments2_",
+        "importPath": "Investigation.getComments2",
+        "description": "Investigation.getComments2",
+        "isExtraImport": true,
+        "detail": "Investigation.getComments2",
+        "documentation": {}
+    },
+    {
+        "label": "threading",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "threading",
+        "description": "threading",
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "subprocess",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "subprocess",
+        "description": "subprocess",
+        "detail": "subprocess",
+        "documentation": {}
+    },
+    {
+        "label": "Investigation",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "Investigation",
+        "description": "Investigation",
+        "detail": "Investigation",
+        "documentation": {}
+    },
+    {
+        "label": "selenium",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "selenium",
+        "description": "selenium",
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "Keys",
+        "importPath": "selenium.webdriver.common.keys",
+        "description": "selenium.webdriver.common.keys",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.keys",
+        "documentation": {}
+    },
+    {
+        "label": "Options",
+        "importPath": "selenium.webdriver.chrome.options",
+        "description": "selenium.webdriver.chrome.options",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.options",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "WebDriverWait",
+        "importPath": "selenium.webdriver.support.ui",
+        "description": "selenium.webdriver.support.ui",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support.ui",
+        "documentation": {}
+    },
+    {
+        "label": "expected_conditions",
+        "importPath": "selenium.webdriver.support",
+        "description": "selenium.webdriver.support",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support",
+        "documentation": {}
+    },
+    {
+        "label": "platform",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "platform",
+        "description": "platform",
+        "detail": "platform",
+        "documentation": {}
+    },
+    {
+        "label": "zipfile",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "zipfile",
+        "description": "zipfile",
+        "detail": "zipfile",
+        "documentation": {}
+    },
+    {
+        "label": "printName",
+        "kind": 2,
+        "importPath": "Investigation.FindOwner2",
+        "description": "Investigation.FindOwner2",
+        "peekOfCode": "def printName():\n    return name\nasync def run(playwright,phone_number,email,password):\n    global page,page2\n    display = Display(visible=0, size=(1600, 1200))\n    display.start()\n    firefox = playwright.firefox\n    browser = await firefox.launch(headless=True)\n    context = await browser.new_context()\n    page = await context.new_page()",
+        "detail": "Investigation.FindOwner2",
+        "documentation": {}
+    },
+    {
+        "label": "location",
+        "kind": 2,
+        "importPath": "Investigation.general",
+        "description": "Investigation.general",
+        "peekOfCode": "def location(phone_number):\n    try:\n        global number,liste,country,operator,errNumber,currentTime\n        number=phonenumbers.parse(phone_number,\"EN\")\n        liste=time_zones_for_number(number)\n        country=geocoder.description_for_number(number, \"en\")\n        operator=carrier.name_for_number(number,\"en\")\n        if str(liste[0])==\"Etc/Unknown\":\n            errNumber=\"False\"\n            currentTime=None",
+        "detail": "Investigation.general",
+        "documentation": {}
+    },
+    {
+        "label": "returnCountry",
+        "kind": 2,
+        "importPath": "Investigation.general",
+        "description": "Investigation.general",
+        "peekOfCode": "def returnCountry():\n    return str(country)\ndef returnTimeZone():\n    return str(liste[0])\ndef returnOperator():\n    return str(operator)\ndef return_errNumber_():\n    return errNumber\ndef returnCurrentTime():\n    return currentTime",
+        "detail": "Investigation.general",
+        "documentation": {}
+    },
+    {
+        "label": "returnTimeZone",
+        "kind": 2,
+        "importPath": "Investigation.general",
+        "description": "Investigation.general",
+        "peekOfCode": "def returnTimeZone():\n    return str(liste[0])\ndef returnOperator():\n    return str(operator)\ndef return_errNumber_():\n    return errNumber\ndef returnCurrentTime():\n    return currentTime",
+        "detail": "Investigation.general",
+        "documentation": {}
+    },
+    {
+        "label": "returnOperator",
+        "kind": 2,
+        "importPath": "Investigation.general",
+        "description": "Investigation.general",
+        "peekOfCode": "def returnOperator():\n    return str(operator)\ndef return_errNumber_():\n    return errNumber\ndef returnCurrentTime():\n    return currentTime",
+        "detail": "Investigation.general",
+        "documentation": {}
+    },
+    {
+        "label": "return_errNumber_",
+        "kind": 2,
+        "importPath": "Investigation.general",
+        "description": "Investigation.general",
+        "peekOfCode": "def return_errNumber_():\n    return errNumber\ndef returnCurrentTime():\n    return currentTime",
+        "detail": "Investigation.general",
+        "documentation": {}
+    },
+    {
+        "label": "returnCurrentTime",
+        "kind": 2,
+        "importPath": "Investigation.general",
+        "description": "Investigation.general",
+        "peekOfCode": "def returnCurrentTime():\n    return currentTime",
+        "detail": "Investigation.general",
+        "documentation": {}
+    },
+    {
+        "label": "printAll",
+        "kind": 2,
+        "importPath": "Investigation.getComments",
+        "description": "Investigation.getComments",
+        "peekOfCode": "def printAll():\n    return comment\ndef getComments_(phone_number):\n    global comment,comment_\n    comment=[]\n    headers = {\n        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36'\n    }\n    try:\n        phone_number=phone_number.split(\"+\")[1]",
+        "detail": "Investigation.getComments",
+        "documentation": {}
+    },
+    {
+        "label": "getComments_",
+        "kind": 2,
+        "importPath": "Investigation.getComments",
+        "description": "Investigation.getComments",
+        "peekOfCode": "def getComments_(phone_number):\n    global comment,comment_\n    comment=[]\n    headers = {\n        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36'\n    }\n    try:\n        phone_number=phone_number.split(\"+\")[1]\n        reqToServer=requests.get(f\"https://www.unknownphone.com/phone/{phone_number}\",headers=headers)\n        source = BeautifulSoup(reqToServer.content,\"lxml\")",
+        "detail": "Investigation.getComments",
+        "documentation": {}
+    },
+    {
+        "label": "printAll",
+        "kind": 2,
+        "importPath": "Investigation.getComments2",
+        "description": "Investigation.getComments2",
+        "peekOfCode": "def printAll():\n    return comment\ndef _getComments2_(phone_number):\n    global comment\n    comment=[]\n    headers = {\n        \"User-Agent\": \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:84.0) Gecko/20100101 Firefox/84.0\",\n    }\n    phone_number=phone_number.split(\"+\")[1]\n    reqToServer = requests.get(f\"https://spamcalls.net/en/number/{phone_number}\", headers=headers)",
+        "detail": "Investigation.getComments2",
+        "documentation": {}
+    },
+    {
+        "label": "print_all",
+        "kind": 2,
+        "importPath": "Investigation.getLinks",
+        "description": "Investigation.getLinks",
+        "peekOfCode": "def print_all():\n    return duckduckgo_urls, google_urls\ndef getLinks(phone_number):\n    global duckduckgo_urls, google_urls\n    duckduckgo_urls = []\n    google_urls = []\n    headers = {\n        \"User-Agent\": \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:84.0) Gecko/20100101 Firefox/84.0\",\n    }\n    phone_number = phone_number.split(\"+\")[1]",
+        "detail": "Investigation.getLinks",
+        "documentation": {}
+    },
+    {
+        "label": "getLinks",
+        "kind": 2,
+        "importPath": "Investigation.getLinks",
+        "description": "Investigation.getLinks",
+        "peekOfCode": "def getLinks(phone_number):\n    global duckduckgo_urls, google_urls\n    duckduckgo_urls = []\n    google_urls = []\n    headers = {\n        \"User-Agent\": \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:84.0) Gecko/20100101 Firefox/84.0\",\n    }\n    phone_number = phone_number.split(\"+\")[1]\n    # DuckDuckGo search\n    duckduckgo_page = requests.get(f'https://duckduckgo.com/html/?q={phone_number}', headers=headers).text",
+        "detail": "Investigation.getLinks",
+        "documentation": {}
+    },
+    {
+        "label": "printAll",
+        "kind": 2,
+        "importPath": "Investigation.socialMedia1",
+        "description": "Investigation.socialMedia1",
+        "peekOfCode": "def printAll():\n    return faceAc\nasync def run(playwright,phone_number):\n    global page\n    global faceAc\n    firefox = playwright.firefox\n    browser = await firefox.launch(headless=True)\n    context = await browser.new_context()\n    page = await context.new_page()\n    await page.goto(\"https://www.facebook.com/login/\")",
+        "detail": "Investigation.socialMedia1",
+        "documentation": {}
+    },
+    {
+        "label": "printAll",
+        "kind": 2,
+        "importPath": "Investigation.socialMedia2",
+        "description": "Investigation.socialMedia2",
+        "peekOfCode": "def printAll():\n    return instAc\nasync def run(playwright,phone_number):\n    global page\n    global instAc\n    firefox = playwright.firefox\n    browser = await firefox.launch(headless=True)\n    context = await browser.new_context()\n    page = await context.new_page()\n    await page.goto(\"https://www.instagram.com/accounts/login/\")",
+        "detail": "Investigation.socialMedia2",
+        "documentation": {}
+    },
+    {
+        "label": "printAll",
+        "kind": 2,
+        "importPath": "Investigation.socialMedia3",
+        "description": "Investigation.socialMedia3",
+        "peekOfCode": "def printAll():\n    return twAc\nasync def run(playwright,phone_number):\n    global page\n    global twAc\n    display = Display(visible=0, size=(1600, 1200))\n    display.start()\n    firefox = playwright.firefox\n    browser = await firefox.launch(headless=True)\n    context = await browser.new_context()",
+        "detail": "Investigation.socialMedia3",
+        "documentation": {}
+    },
+    {
+        "label": "printAll",
+        "kind": 2,
+        "importPath": "Investigation.socialMedia4",
+        "description": "Investigation.socialMedia4",
+        "peekOfCode": "def printAll():\n    return goAc\nasync def run(playwright,phone_number):\n    global page\n    global goAc\n    display = Display(visible=0, size=(1600, 1200))\n    display.start()\n    firefox = playwright.firefox\n    browser = await firefox.launch(headless=True)\n    context = await browser.new_context()",
+        "detail": "Investigation.socialMedia4",
+        "documentation": {}
+    },
+    {
+        "label": "printAll",
+        "kind": 2,
+        "importPath": "Investigation.socialMedia5",
+        "description": "Investigation.socialMedia5",
+        "peekOfCode": "def printAll():\n    return micAc\nasync def run(playwright,phone_number):\n    global page\n    global micAc\n    display = Display(visible=0, size=(1600, 1200))\n    display.start()\n    firefox = playwright.firefox\n    browser = await firefox.launch(headless=True)\n    context = await browser.new_context()",
+        "detail": "Investigation.socialMedia5",
+        "documentation": {}
+    },
+    {
+        "label": "printAll",
+        "kind": 2,
+        "importPath": "Investigation.spamControl",
+        "description": "Investigation.spamControl",
+        "peekOfCode": "def printAll():\n    return situationSpam,explanation,numberType\ndef spamMain(phone_number):\n    global situationSpam,explanation,numberType\n    headers = {\n        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36'\n    }\n    phone_number=phone_number.split(\"+\")[1]\n    reqToServer=requests.get(f\"https://spamcalls.net/en/number/{phone_number}\",headers=headers)\n    source = BeautifulSoup(reqToServer.content,\"lxml\")",
+        "detail": "Investigation.spamControl",
+        "documentation": {}
+    },
+    {
+        "label": "spamMain",
+        "kind": 2,
+        "importPath": "Investigation.spamControl",
+        "description": "Investigation.spamControl",
+        "peekOfCode": "def spamMain(phone_number):\n    global situationSpam,explanation,numberType\n    headers = {\n        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36'\n    }\n    phone_number=phone_number.split(\"+\")[1]\n    reqToServer=requests.get(f\"https://spamcalls.net/en/number/{phone_number}\",headers=headers)\n    source = BeautifulSoup(reqToServer.content,\"lxml\")\n    situationSpam=source.select('a[href=\"#ratings\"]')\n    numberType=source.select('a[href=\"#estimates\"]')",
+        "detail": "Investigation.spamControl",
+        "documentation": {}
+    },
+    {
+        "label": "returnValue",
+        "kind": 2,
+        "importPath": "Investigation.spamControl2",
+        "description": "Investigation.spamControl2",
+        "peekOfCode": "def returnValue():\n    return com\ndef getSpam(phone_number):\n    global com\n    headers = {\n        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36'\n    }\n    try:\n        print(phone_number)\n        phone_number=phone_number.split(\"+\")[1]",
+        "detail": "Investigation.spamControl2",
+        "documentation": {}
+    },
+    {
+        "label": "getSpam",
+        "kind": 2,
+        "importPath": "Investigation.spamControl2",
+        "description": "Investigation.spamControl2",
+        "peekOfCode": "def getSpam(phone_number):\n    global com\n    headers = {\n        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36'\n    }\n    try:\n        print(phone_number)\n        phone_number=phone_number.split(\"+\")[1]\n        reqToServer=requests.get(f\"https://www.unknownphone.com/phone/{phone_number}\",headers=headers)\n        print(\"here2\")",
+        "detail": "Investigation.spamControl2",
+        "documentation": {}
+    },
+    {
+        "label": "threadFunction",
+        "kind": 2,
+        "importPath": "MoriartyProject",
+        "description": "MoriartyProject",
+        "peekOfCode": "def threadFunction(functionName,*args):\n    loop=asyncio.new_event_loop()\n    asyncio.set_event_loop(loop)\n    try:\n        loop.run_until_complete(functionName(args,))\n    except TypeError:\n        loop.run_until_complete(functionName(args[0],args[1],args[2]))\ndef getValueFunction(func):\n    global valueName\n    global tupleOutput",
+        "detail": "MoriartyProject",
+        "documentation": {}
+    },
+    {
+        "label": "getValueFunction",
+        "kind": 2,
+        "importPath": "MoriartyProject",
+        "description": "MoriartyProject",
+        "peekOfCode": "def getValueFunction(func):\n    global valueName\n    global tupleOutput\n    while True:\n        try:\n            valueName=func()\n            if type(valueName).__name__==\"tuple\":\n                tupleOutput=True\n            elif type(valueName).__name__==\"str\":\n                tupleOutput=False",
+        "detail": "MoriartyProject",
+        "documentation": {}
+    },
+    {
+        "label": "bye",
+        "kind": 2,
+        "importPath": "MoriartyProject",
+        "description": "MoriartyProject",
+        "peekOfCode": "def bye():\n    os.system(\"killall -9 python3\")\n@app.route(\"/MicrosoftMail\",methods=[\"POST\",\"GET\"])\ndef microsoftMail():\n    global find_owner,redirectionMicrosoftFailed,email,password\n    if request.method==\"POST\":\n        find_owner=\"Added\"\n        email=request.form[\"email\"]\n        password=request.form[\"password\"]\n        if \"@gmail.com\" in email:",
+        "detail": "MoriartyProject",
+        "documentation": {}
+    },
+    {
+        "label": "microsoftMail",
+        "kind": 2,
+        "importPath": "MoriartyProject",
+        "description": "MoriartyProject",
+        "peekOfCode": "def microsoftMail():\n    global find_owner,redirectionMicrosoftFailed,email,password\n    if request.method==\"POST\":\n        find_owner=\"Added\"\n        email=request.form[\"email\"]\n        password=request.form[\"password\"]\n        if \"@gmail.com\" in email:\n            return redirect(url_for(\"success\"))\n        else:\n            return render_template(\"unkownMail.html\")",
+        "detail": "MoriartyProject",
+        "documentation": {}
+    },
+    {
+        "label": "success",
+        "kind": 2,
+        "importPath": "MoriartyProject",
+        "description": "MoriartyProject",
+        "peekOfCode": "def success():\n    if request.method==\"GET\":\n        global redirectionMicrosoft\n        redirectionMicrosoft=True\n        return redirect(url_for(\"index\"))\n@app.route(\"/investigationErr\",methods=[\"GET\"])\ndef investigationErr():\n    threading.Thread(target=bye).start()\n    return render_template(\"resultErr.html\",phone_number=phone_number)\n@app.route(\"/investigation\",methods=[\"GET\"])",
+        "detail": "MoriartyProject",
+        "documentation": {}
+    },
+    {
+        "label": "investigationErr",
+        "kind": 2,
+        "importPath": "MoriartyProject",
+        "description": "MoriartyProject",
+        "peekOfCode": "def investigationErr():\n    threading.Thread(target=bye).start()\n    return render_template(\"resultErr.html\",phone_number=phone_number)\n@app.route(\"/investigation\",methods=[\"GET\"])\ndef investigation():\n    return render_template(\"result.html\",\n        phoneNumberOwner=phoneNumberOwner,\n        phoneNumberOwner1=phoneNumberOwner1,\n        phone_number=phone_number,\n        timeZone=timeZone,",
+        "detail": "MoriartyProject",
+        "documentation": {}
+    },
+    {
+        "label": "investigation",
+        "kind": 2,
+        "importPath": "MoriartyProject",
+        "description": "MoriartyProject",
+        "peekOfCode": "def investigation():\n    return render_template(\"result.html\",\n        phoneNumberOwner=phoneNumberOwner,\n        phoneNumberOwner1=phoneNumberOwner1,\n        phone_number=phone_number,\n        timeZone=timeZone,\n        country=country,\n        operator=operator,\n        errNumber=errNumber,\n        currentTime=currentTime,",
+        "detail": "MoriartyProject",
+        "documentation": {}
+    },
+    {
+        "label": "index",
+        "kind": 2,
+        "importPath": "MoriartyProject",
+        "description": "MoriartyProject",
+        "peekOfCode": "def index():\n    global get_comments,get_links,spam_risk,social_media,find_owner,phone_number,comments2,runall\n    if request.method==\"GET\":\n        if redirectionMicrosoft==True:\n            return render_template(\"findOwnerSuccess.html\",phone_number=phone_number)\n        if redirectionMicrosoftFailed==True:\n            return render_template(\"failed.html\")\n        return render_template(\"index.html\")\n    if request.method==\"POST\":\n        command=request.form[\"in\"]",
+        "detail": "MoriartyProject",
+        "documentation": {}
+    },
+    {
+        "label": "featureOnProgress",
+        "kind": 2,
+        "importPath": "MoriartyProject",
+        "description": "MoriartyProject",
+        "peekOfCode": "def featureOnProgress():\n    global instaResult,twResult,goResult,micResult,links,comments2,comments,faceResult,spam_risk,situationSpam,explanation,numberType,spamGet\n    global phoneNumberOwner,phoneNumberOwner1\n    if spam_risk==\"Added\":\n        spamGet=\"Feature In Progress\"\n        situationSpam=\"Feature In Progress\"\n        explanation=\"Feature In Progress\"\n        numberType=\"Feature In Progress\"\n    else:\n        spamGet=\"Feature Not Selected\"",
+        "detail": "MoriartyProject",
+        "documentation": {}
+    },
+    {
+        "label": "runScripts",
+        "kind": 2,
+        "importPath": "MoriartyProject",
+        "description": "MoriartyProject",
+        "peekOfCode": "def runScripts():\n    global get_comments,get_links,spam_risk,social_media,find_owner,phone_number,runall,faceResult,links,phoneNumberOwner\n    global situationSpam,explanation,numberType,spamGet,comments2,instaResult,twResult,goResult,micResult,phoneNumberOwner1\n    #some features are being ran in threads while others aren't. This is designed for low system devices that are using moriarty project.\n    if errNumber!=\"False\":\n        featureOnProgress()\n        if spam_risk==\"Added\":\n            Investigation.spamControl2.getSpam(phone_number)\n            spamGet=Investigation.spamControl2.returnValue()\n            spamMain(phone_number)",
+        "detail": "MoriartyProject",
+        "documentation": {}
+    },
+    {
+        "label": "socialMedia1",
+        "kind": 2,
+        "importPath": "MoriartyProject",
+        "description": "MoriartyProject",
+        "peekOfCode": "def socialMedia1():\n    global faceResult\n    while True:\n        try:\n            faceResult=Investigation.socialMedia1.printAll()\n        except:\n            faceResult=\"Feature In Progress\"\n            continue\ndef socialMedia2():\n    global instaResult",
+        "detail": "MoriartyProject",
+        "documentation": {}
+    },
+    {
+        "label": "socialMedia2",
+        "kind": 2,
+        "importPath": "MoriartyProject",
+        "description": "MoriartyProject",
+        "peekOfCode": "def socialMedia2():\n    global instaResult\n    while True:\n        try:\n            instaResult=Investigation.socialMedia2.printAll()\n        except:\n            instaResult=\"Feature In Progress\"\n            continue\ndef socialMedia3():\n    global twResult",
+        "detail": "MoriartyProject",
+        "documentation": {}
+    },
+    {
+        "label": "socialMedia3",
+        "kind": 2,
+        "importPath": "MoriartyProject",
+        "description": "MoriartyProject",
+        "peekOfCode": "def socialMedia3():\n    global twResult\n    while True:\n        try:\n            twResult=Investigation.socialMedia3.printAll()\n        except:\n            twResult=\"Feature In Progress\"\n            continue\ndef socialMedia4():\n    global goResult",
+        "detail": "MoriartyProject",
+        "documentation": {}
+    },
+    {
+        "label": "socialMedia4",
+        "kind": 2,
+        "importPath": "MoriartyProject",
+        "description": "MoriartyProject",
+        "peekOfCode": "def socialMedia4():\n    global goResult\n    while True:\n        try:\n            goResult=Investigation.socialMedia4.printAll()\n        except:\n            goResult=\"Feature In Progress\"\n            continue\ndef socialMedia5():\n    global micResult",
+        "detail": "MoriartyProject",
+        "documentation": {}
+    },
+    {
+        "label": "socialMedia5",
+        "kind": 2,
+        "importPath": "MoriartyProject",
+        "description": "MoriartyProject",
+        "peekOfCode": "def socialMedia5():\n    global micResult\n    while True:\n        try:\n            micResult=Investigation.socialMedia5.printAll()\n        except:\n            micResult=\"Feature In Progress\"\n            continue\nif __name__ == \"__main__\":\n    import subprocess",
+        "detail": "MoriartyProject",
+        "documentation": {}
+    },
+    {
+        "label": "__author__",
+        "kind": 5,
+        "importPath": "MoriartyProject",
+        "description": "MoriartyProject",
+        "peekOfCode": "__author__ = 'Aziz Kaplan'\nimport os\nfrom gevent.pywsgi import WSGIServer\nfrom flask import Flask, render_template,request,redirect,url_for\nimport re\nfrom Investigation.FindOwner import main\nfrom Investigation.FindOwner2 import main1\nimport Investigation.FindOwner\nimport Investigation.general\nfrom Investigation.spamControl import spamMain",
+        "detail": "MoriartyProject",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "MoriartyProject",
+        "description": "MoriartyProject",
+        "peekOfCode": "app = Flask(__name__)\nget_comments=\"Not Provided\"\nget_links=\"Not Provided\"\nspam_risk=\"Not Provided\"\nsocial_media=\"Not Provided\"\nfind_owner=\"Not Provided\"\nrunall=\"Not Provided\"\nredirectionMicrosoft=False\nredirectionMicrosoftFailed=False\nemail=\"\"",
+        "detail": "MoriartyProject",
+        "documentation": {}
+    },
+    {
+        "label": "index",
+        "kind": 2,
+        "importPath": "Moriarty_simplified",
+        "description": "Moriarty_simplified",
+        "peekOfCode": "def index():\n    if request.method == \"POST\":\n        command = request.form[\"in\"]\n        process_command(command)\n    return render_template(\"index.html\")\ndef process_command(command):\n    cmd, *args = command.split()\n    if cmd == \"help\":\n        return render_template(\"help.html\")\n    elif cmd == \"add\":",
+        "detail": "Moriarty_simplified",
+        "documentation": {}
+    },
+    {
+        "label": "process_command",
+        "kind": 2,
+        "importPath": "Moriarty_simplified",
+        "description": "Moriarty_simplified",
+        "peekOfCode": "def process_command(command):\n    cmd, *args = command.split()\n    if cmd == \"help\":\n        return render_template(\"help.html\")\n    elif cmd == \"add\":\n        return process_add_command(args)\n    elif cmd == \"show\":\n        return render_template(\"showoptions.html\", **options)\n    elif cmd == \"run\":\n        return run_investigation()",
+        "detail": "Moriarty_simplified",
+        "documentation": {}
+    },
+    {
+        "label": "process_add_command",
+        "kind": 2,
+        "importPath": "Moriarty_simplified",
+        "description": "Moriarty_simplified",
+        "peekOfCode": "def process_add_command(args):\n    if args[0] == \"PhoneNumber\":\n        options[\"phone_number\"] = \"+\" + re.search(\"\\d+\", args[1]).group(0)\n        return render_template(\"phone_number_success.html\", phone_number=options[\"phone_number\"])\n    elif args[0] == \"feature\":\n        options[args[1]] = True\n        return render_template(f\"{args[1]}_success.html\", phone_number=options[\"phone_number\"])\ndef run_investigation():\n    Investigation.general.location(options[\"phone_number\"])\n    threading.Thread(target=run_scripts).start()",
+        "detail": "Moriarty_simplified",
+        "documentation": {}
+    },
+    {
+        "label": "run_investigation",
+        "kind": 2,
+        "importPath": "Moriarty_simplified",
+        "description": "Moriarty_simplified",
+        "peekOfCode": "def run_investigation():\n    Investigation.general.location(options[\"phone_number\"])\n    threading.Thread(target=run_scripts).start()\n    time.sleep(2)\n    return redirect(url_for(\"investigation\"))\ndef run_scripts():\n    if options[\"spam_risk\"]:\n        Investigation.run_spam_risk(options[\"phone_number\"])\n    if options[\"get_comments\"]:\n        Investigation.run_get_comments(options[\"phone_number\"])",
+        "detail": "Moriarty_simplified",
+        "documentation": {}
+    },
+    {
+        "label": "run_scripts",
+        "kind": 2,
+        "importPath": "Moriarty_simplified",
+        "description": "Moriarty_simplified",
+        "peekOfCode": "def run_scripts():\n    if options[\"spam_risk\"]:\n        Investigation.run_spam_risk(options[\"phone_number\"])\n    if options[\"get_comments\"]:\n        Investigation.run_get_comments(options[\"phone_number\"])\n    if options[\"get_links\"]:\n        Investigation.run_get_links(options[\"phone_number\"])\n    if options[\"find_owner\"]:\n        Investigation.run_find_owner(options[\"phone_number\"])\n    if options[\"social_media\"]:",
+        "detail": "Moriarty_simplified",
+        "documentation": {}
+    },
+    {
+        "label": "investigation",
+        "kind": 2,
+        "importPath": "Moriarty_simplified",
+        "description": "Moriarty_simplified",
+        "peekOfCode": "def investigation():\n    data = Investigation.get_results(options[\"phone_number\"])\n    return render_template(\"result.html\", **data)\nif __name__ == \"__main__\":\n    ip = subprocess.check_output(\"hostname -I | awk '{print $1}'\", shell=True).decode().strip()\n    app.run(ip, 8080, debug=True)",
+        "detail": "Moriarty_simplified",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "Moriarty_simplified",
+        "description": "Moriarty_simplified",
+        "peekOfCode": "app = Flask(__name__)\noptions = {\"phone_number\": None, \"find_owner\": False, \"social_media\": False, \"get_links\": False, \"spam_risk\": False, \"get_comments\": False}\n@app.route(\"/\", methods=[\"POST\", \"GET\"])\ndef index():\n    if request.method == \"POST\":\n        command = request.form[\"in\"]\n        process_command(command)\n    return render_template(\"index.html\")\ndef process_command(command):\n    cmd, *args = command.split()",
+        "detail": "Moriarty_simplified",
+        "documentation": {}
+    },
+    {
+        "label": "options",
+        "kind": 5,
+        "importPath": "Moriarty_simplified",
+        "description": "Moriarty_simplified",
+        "peekOfCode": "options = {\"phone_number\": None, \"find_owner\": False, \"social_media\": False, \"get_links\": False, \"spam_risk\": False, \"get_comments\": False}\n@app.route(\"/\", methods=[\"POST\", \"GET\"])\ndef index():\n    if request.method == \"POST\":\n        command = request.form[\"in\"]\n        process_command(command)\n    return render_template(\"index.html\")\ndef process_command(command):\n    cmd, *args = command.split()\n    if cmd == \"help\":",
+        "detail": "Moriarty_simplified",
+        "documentation": {}
+    },
+    {
+        "label": "chrome_options",
+        "kind": 5,
+        "importPath": "run_browser",
+        "description": "run_browser",
+        "peekOfCode": "chrome_options = Options()\ndriver = webdriver.Chrome(options=chrome_options)\nprint(\"driver is: \", driver)\nprint(\"driver type is: \", type(driver))\nprint(f'Activated driver: {driver.name} {driver.capabilities[\"browserVersion\"]}')\ndriver.get(\"http://localhost:8080/\") # open the browser",
+        "detail": "run_browser",
+        "documentation": {}
+    },
+    {
+        "label": "driver",
+        "kind": 5,
+        "importPath": "run_browser",
+        "description": "run_browser",
+        "peekOfCode": "driver = webdriver.Chrome(options=chrome_options)\nprint(\"driver is: \", driver)\nprint(\"driver type is: \", type(driver))\nprint(f'Activated driver: {driver.name} {driver.capabilities[\"browserVersion\"]}')\ndriver.get(\"http://localhost:8080/\") # open the browser",
+        "detail": "run_browser",
+        "documentation": {}
+    },
+    {
+        "label": "download_chromedriver",
+        "kind": 2,
+        "importPath": "setup_chromedriver",
+        "description": "setup_chromedriver",
+        "peekOfCode": "def download_chromedriver():\n    print(\"Downloading ChromeDriver...\")\n    base_url = \"https://chromedriver.storage.googleapis.com/\"\n    latest_version_url = base_url + \"LATEST_RELEASE\"\n    response = requests.get(latest_version_url)\n    latest_version = response.text.strip()\n    system = platform.system()\n    bitness = platform.architecture()[0]\n    if system == \"Windows\":\n        if bitness == \"64bit\":",
+        "detail": "setup_chromedriver",
+        "documentation": {}
+    }
+]

@@ -1,8 +1,4 @@
-
 __author__ = 'Aziz Kaplan'
-
-
-
 import os
 from gevent.pywsgi import WSGIServer
 from flask import Flask, render_template,request,redirect,url_for
@@ -21,7 +17,6 @@ from Investigation.socialMedia5 import micMain
 from Investigation.getLinks import getLinks_
 from Investigation.getComments import getComments_
 from Investigation.getComments2 import _getComments2_
-
 import asyncio
 import time
 import threading
@@ -75,9 +70,8 @@ def microsoftMail():
         else:
             return render_template("unkownMail.html")
     try:
-        if phone_number!="":            
+        if phone_number!="":
             return render_template("findOwnerEmailPassword.html")
-             
         else:
             return render_template("failed.html")
     except:
@@ -95,7 +89,6 @@ def investigationErr():
     return render_template("resultErr.html",phone_number=phone_number)
 @app.route("/investigation",methods=["GET"])
 def investigation():
-   
     return render_template("result.html",
         phoneNumberOwner=phoneNumberOwner,
         phoneNumberOwner1=phoneNumberOwner1,
@@ -116,14 +109,12 @@ def investigation():
         spam_risk=spam_risk,
         spamGet=spamGet,
         links=links,
-   
         get_comments=get_comments,
         comments=comments,
         comments2=comments2,
         situationSpam=situationSpam,
         explanation=explanation,
         numberType=numberType
-        
         )
 @app.route("/",methods=["POST","GET"])
 def index():
@@ -139,7 +130,6 @@ def index():
         if command=="help":
             return render_template("help.html")
         elif command[0:15]=="add PhoneNumber":
-          
             phone_number=str("+"+re.search("\d+",command).group(0))
             return render_template("phoneNumberSuccess.html",phone_number=phone_number)
         elif command[0:21]=="add feature FindOwner":
@@ -148,7 +138,6 @@ def index():
                     find_owner="Added"
                     return render_template("findOwnerSuccess.html",phone_number=phone_number)
                 else:
-                    
                     return redirect(url_for("microsoftMail"))
             except:
                 return render_template("failed.html")
@@ -205,8 +194,8 @@ def index():
             errNumber=Investigation.general.return_errNumber_()
             currentTime=Investigation.general.returnCurrentTime()
             if errNumber!="False":
-                threading.Thread(target=runScripts).start()  
-                time.sleep(2) 
+                threading.Thread(target=runScripts).start()
+                time.sleep(2)
                 return redirect(url_for("investigation"))
             else:
                 return redirect(url_for("investigationErr"))
@@ -216,21 +205,21 @@ def featureOnProgress():
     global instaResult,twResult,goResult,micResult,links,comments2,comments,faceResult,spam_risk,situationSpam,explanation,numberType,spamGet
     global phoneNumberOwner,phoneNumberOwner1
     if spam_risk=="Added":
-        spamGet="Feature On Progress"
-        situationSpam="Feature On Progress"
-        explanation="Feature On Progress"
-        numberType="Feature On Progress"
+        spamGet="Feature In Progress"
+        situationSpam="Feature In Progress"
+        explanation="Feature In Progress"
+        numberType="Feature In Progress"
     else:
         spamGet="Feature Not Selected"
         situationSpam="Feature Not Selected"
         explanation="Feature Not Selected"
         numberType="Feature Not Selected"
     if social_media=="Added":
-        faceResult="Feature On Progress"
-        instaResult="Feature On Progress"
-        twResult="Feature On Progress"
-        goResult="Feature On Progress"
-        micResult="Feature On Progress"
+        faceResult="Feature In Progress"
+        instaResult="Feature In Progress"
+        twResult="Feature In Progress"
+        goResult="Feature In Progress"
+        micResult="Feature In Progress"
     else:
         faceResult="Feature Not Selected"
         instaResult="Feature Not Selected"
@@ -238,16 +227,16 @@ def featureOnProgress():
         goResult="Feature Not Selected"
         micResult="Feature Not Selected"
     if get_links=="Added":
-        links="Feature On Progress"
+        links="Feature In Progress"
     else:
         links="Feature Not Selected"
     if get_comments=="Added":
-        comments="Feature On Progress";comments2="Feature On Progress"
+        comments="Feature In Progress";comments2="Feature In Progress"
     else:
         comments="Feature Not Selected";comments2="Feature Not Selected"
     if find_owner=="Added":
-        phoneNumberOwner="Feature On Progress"
-        phoneNumberOwner1="Feature On Progress"
+        phoneNumberOwner="Feature In Progress"
+        phoneNumberOwner1="Feature In Progress"
     else:
         phoneNumberOwner="Feature Not Selected";phoneNumberOwner1="Feature Not Selected"
 def runScripts():
@@ -256,7 +245,6 @@ def runScripts():
     #some features are being ran in threads while others aren't. This is designed for low system devices that are using moriarty project.
     if errNumber!="False":
         featureOnProgress()
-        
         if spam_risk=="Added":
             Investigation.spamControl2.getSpam(phone_number)
             spamGet=Investigation.spamControl2.returnValue()
@@ -281,10 +269,6 @@ def runScripts():
             threadFunction(twMain,phone_number);twResult=Investigation.socialMedia3.printAll()
             threadFunction(goMain,phone_number);goResult=Investigation.socialMedia4.printAll()
             threadFunction(micMain,phone_number);micResult=Investigation.socialMedia5.printAll()
-          
-
-        
-        
 def _getComments_():
     global comments
     while True:
@@ -292,7 +276,7 @@ def _getComments_():
             comments=Investigation.getComments.printAll()
             break
         except:
-            comments="Feature On Progress"
+            comments="Feature In Progress"
             continue
 def socialMedia1():
     global faceResult
@@ -300,7 +284,7 @@ def socialMedia1():
         try:
             faceResult=Investigation.socialMedia1.printAll()
         except:
-            faceResult="Feature On Progress"
+            faceResult="Feature In Progress"
             continue
 def socialMedia2():
     global instaResult
@@ -308,7 +292,7 @@ def socialMedia2():
         try:
             instaResult=Investigation.socialMedia2.printAll()
         except:
-            instaResult="Feature On Progress"
+            instaResult="Feature In Progress"
             continue
 def socialMedia3():
     global twResult
@@ -316,7 +300,7 @@ def socialMedia3():
         try:
             twResult=Investigation.socialMedia3.printAll()
         except:
-            twResult="Feature On Progress"
+            twResult="Feature In Progress"
             continue
 def socialMedia4():
     global goResult
@@ -324,17 +308,16 @@ def socialMedia4():
         try:
             goResult=Investigation.socialMedia4.printAll()
         except:
-            goResult="Feature On Progress"
-            continue  
+            goResult="Feature In Progress"
+            continue
 def socialMedia5():
     global micResult
     while True:
         try:
             micResult=Investigation.socialMedia5.printAll()
         except:
-            micResult="Feature On Progress"
-            continue  
+            micResult="Feature In Progress"
+            continue
 if __name__ == "__main__":
     import subprocess
     app.run(str(subprocess.check_output("hostname -I | awk '{print $1}'",shell=True).decode().strip()),8080,debug=True)
-    

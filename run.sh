@@ -9,5 +9,4 @@ echo -e "Please go to this link: http://$(hostname -I | awk '{print $1}'):8080\n
 echo "Press CTRL+C to kill the webserver."
 bash startBrowser.sh &
 python3 MoriartyProject.py &> /dev/null
-
-
+# python3 Moriarty_simplified.py &> /dev/null

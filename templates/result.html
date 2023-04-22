@@ -20,19 +20,19 @@
     {%endif%}
     <br>
     {% if spam_risk == "Added" %}
-		
-        {% if situationSpam == "Feature On Progress" %}
+
+        {% if situationSpam == "Feature In Progress" %}
             <br><br>
-            <p style="color:gray;display: inline;font-size: 22px;">[*] Feature On Progress - SpamRisk Algorithm1</p>
-            
+            <p style="color:gray;display: inline;font-size: 22px;">[*] Feature In Progress - SpamRisk Algorithm1</p>
+
             <br>
         {% elif "User reports for the phone number are not (no longer) available." in situationSpam %}
             <br>
             <p style="color:red;display: inline;font-size: 22px;">[-] No spam risk information found for this number. | SpamRisk Algorithm1</p>
-            
+
             <br>
         {% else %}
-        
+
             <p style="color:lightblue;display: inline;font-size: 22px;">[+]Spam Situation | SpamRisk Algorithm1:</p>
             <p style="color:yellow;display: inline;font-size: 22px;">{{situationSpam}}</p><br>
             <p style="color:lightblue;display: inline;font-size: 22px;">[+]Explanation1 | SpamRisk Algorithm1:</p>
@@ -42,21 +42,21 @@
             <br>
 
         {%endif%}
-        {% if spamGet == "Feature On Progress" %}
+        {% if spamGet == "Feature In Progress" %}
             <br>
-            <p style="color:gray;display: inline;font-size: 22px;">[*] Feature On Progress - SpamRisk Algorithm2</p>
-            
+            <p style="color:gray;display: inline;font-size: 22px;">[*] Feature In Progress - SpamRisk Algorithm2</p>
+
             <br><br>
         {% elif "No spam info found" in spamGet %}
             <br>
             <p style="color:red;display: inline;font-size: 22px;">[-] No spam risk information found for this number. | SpamRisk Algorithm2</p>
-            
+
             <br><br>
         {% else %}
-            
+
             <p style="color:lightblue;display: inline;font-size: 22px;">[+]Spam Type | SpamRisk Algorithm2:</p>
             <p style="color:yellow;display: inline;font-size: 22px;">{{spamGet}}</p><br>
-           
+
             <br><br>
 
         {%endif%}
@@ -65,13 +65,13 @@
         <p style="color:palevioletred;display: inline;font-size: 22px;">[-]Feature Not Selected - SpamRisk</p><br><br>
     {%endif%}
     {% if find_owner == "Added" %}
-        {% if phoneNumberOwner != "" and phoneNumberOwner != "exceeded" and phoneNumberOwner!="Feature On Progress" %}
+        {% if phoneNumberOwner != "" and phoneNumberOwner != "exceeded" and phoneNumberOwner!="Feature In Progress" %}
             <p style="color:lightblue;display: inline;font-size: 22px;">[+]FindOwner Algorithm 1 | This Phone Number Belongs To:</p>
             <p style="color:yellow;display: inline;font-size: 22px;">{{phoneNumberOwner}}</p>
             <br>
-        {% elif phoneNumberOwner == "Feature On Progress" %}
-            <p style="color:gray;display: inline;font-size: 22px;">[*]FindOwner Algorithm 1 |Feature is on progress. Please wait.</p>
-        
+        {% elif phoneNumberOwner == "Feature In Progress" %}
+            <p style="color:gray;display: inline;font-size: 22px;">[*]FindOwner Algorithm 1 |Feature is In Progress. Please wait.</p>
+
         {% elif phoneNumberOwner == "exceeded" %}
             <p style="color:purple;display: inline;font-size: 22px;">[!]FindOwner Algorithm 1 |Your limit with this account is exceed. Please use another Gmail Account and restart your modem.</p>
         {% else %}
@@ -82,13 +82,13 @@
     {%endif%}
     <br>
     {% if find_owner == "Added"  %}
-        
-        {% if phoneNumberOwner1 != "" and phoneNumberOwner1 != "exceeded" and phoneNumberOwner1!="Feature On Progress" %}
+
+        {% if phoneNumberOwner1 != "" and phoneNumberOwner1 != "exceeded" and phoneNumberOwner1!="Feature In Progress" %}
             <p style="color:lightblue;display: inline;font-size: 22px;">[+]FindOwner Algorithm 2 | This Phone Number Belongs To:</p>
             <p style="color:yellow;display: inline;font-size: 22px;">{{phoneNumberOwner1}}</p>
             <br>
-        {% elif phoneNumberOwner1 == "Feature On Progress" %}
-            <p style="color:gray;display: inline;font-size: 22px;">[*]FindOwner Algorithm 2 |Feature is on progress. Please wait.</p>
+        {% elif phoneNumberOwner1 == "Feature In Progress" %}
+            <p style="color:gray;display: inline;font-size: 22px;">[*]FindOwner Algorithm 2 |Feature is In Progress. Please wait.</p>
             <br><br>
         {% elif phoneNumberOwner1 == "exceeded" %}
             <p style="color:purple;display: inline;font-size: 22px;">[!]FindOwner Algorithm 2 |Your limit with this account is exceed. Please use another Gmail Account and restart your modem.</p>
@@ -105,9 +105,9 @@
             <p style="color:lightblue;display: inline;font-size: 22px;">Note: For a proper usage of this feature, you have to restart your modem/change your ip address time to time.</p><br>
             <p style="color:lightblue;display: inline;font-size: 22px;">[+]Facebook Report:</p>
             <p style="color:yellow;display: inline;font-size: 22px;">Connected</p>
-        {% elif faceResult=="Feature On Progress" %}
+        {% elif faceResult=="Feature In Progress" %}
             <br><br>
-            <p style="color:gray;display: inline;font-size: 22px;">[*]SocialMedia - Facebook |Feature is on progress. Please wait.</p>
+            <p style="color:gray;display: inline;font-size: 22px;">[*]SocialMedia - Facebook |Feature is In Progress. Please wait.</p>
         {%else%}
             <br><br>
             <p style="color:lightblue;display: inline;font-size: 22px;">[+]Facebook Report:</p>
@@ -118,9 +118,9 @@
             <br>
             <p style="color:lightblue;display: inline;font-size: 22px;">[+]Instagram Report:</p>
             <p style="color:yellow;display: inline;font-size: 22px;">Connected</p>
-        {% elif instaResult=="Feature On Progress" %}
+        {% elif instaResult=="Feature In Progress" %}
             <br>
-            <p style="color:gray;display: inline;font-size: 22px;">[*]SocialMedia - Instagram |Feature is on progress. Please wait.</p>
+            <p style="color:gray;display: inline;font-size: 22px;">[*]SocialMedia - Instagram |Feature is In Progress. Please wait.</p>
             {% elif instaResult=="_False_" %}
             <br>
             <p style="color:lightblue;display: inline;font-size: 22px;">[+]Instagram Report:</p>
@@ -136,9 +136,9 @@
             <br>
             <p style="color:lightblue;display: inline;font-size: 22px;">[+]Twitter Report:</p>
             <p style="color:yellow;display: inline;font-size: 22px;">Connected</p>
-        {% elif twResult=="Feature On Progress" %}
+        {% elif twResult=="Feature In Progress" %}
             <br>
-            <p style="color:gray;display: inline;font-size: 22px;">[*]SocialMedia - Twitter |Feature is on progress. Please wait.</p>
+            <p style="color:gray;display: inline;font-size: 22px;">[*]SocialMedia - Twitter |Feature is In Progress. Please wait.</p>
         {%else%}
             <br>
             <p style="color:lightblue;display: inline;font-size: 22px;">[+]Twitter Report:</p>
@@ -149,15 +149,15 @@
             <br>
             <p style="color:lightblue;display: inline;font-size: 22px;">[+]Google Report:</p>
             <p style="color:yellow;display: inline;font-size: 22px;">Connected</p>
-        {% elif goResult=="Feature On Progress" %}
+        {% elif goResult=="Feature In Progress" %}
             <br>
-            <p style="color:gray;display: inline;font-size: 22px;">[*]SocialMedia - Google |Feature is on progress. Please wait.</p>
+            <p style="color:gray;display: inline;font-size: 22px;">[*]SocialMedia - Google |Feature is In Progress. Please wait.</p>
         {%else%}
             <br>
             <p style="color:lightblue;display: inline;font-size: 22px;">[+]Google Report:</p>
             <p style="color:red;display: inline;font-size: 22px;">Not Connected</p>
 
-        
+
         {%endif%}
 
 
@@ -166,9 +166,9 @@
             <p style="color:lightblue;display: inline;font-size: 22px;">[+]Microsoft Report:</p>
             <p style="color:yellow;display: inline;font-size: 22px;">Connected</p>
             <br><br>
-        {% elif micResult=="Feature On Progress" %}
+        {% elif micResult=="Feature In Progress" %}
             <br>
-            <p style="color:gray;display: inline;font-size: 22px;">[*]SocialMedia - Microsoft | Feature is on progress. Please wait.</p>
+            <p style="color:gray;display: inline;font-size: 22px;">[*]SocialMedia - Microsoft | Feature is In Progress. Please wait.</p>
         {%else%}
             <br>
             <p style="color:lightblue;display: inline;font-size: 22px;">[+]Microsoft Report:</p>
@@ -183,8 +183,8 @@
 
 
     {% if get_links == "Added" %}
-        {% if links != "Feature On Progress" %}
-      
+        {% if links != "Feature In Progress" %}
+
             {% for i in links %}
                 {% if i=="not found" %}
                     <p style="color:red;display: inline;font-size: 22px;">[-]Link Not Found For This Number</p>
@@ -196,18 +196,18 @@
             {%endfor%}
         {% elif phoneNumberOwner1 == "" %}
             <br><br>
-            <p style="color:gray;display: inline;font-size: 22px;">[*]GetLinks | Feature is on progress. Please wait.</p>
+            <p style="color:gray;display: inline;font-size: 22px;">[*]GetLinks | Feature is In Progress. Please wait.</p>
             <br><br>
- 
+
         {%endif%}
     {% else %}
-        
+
         <p style="color:palevioletred;display: inline;font-size: 22px;">[-]Feature Not Selected - GetLinks</p>
     {%endif%}
 
     {% if get_comments == "Added" %}
-        {% if comments != "Feature On Progress" %}
-      
+        {% if comments != "Feature In Progress" %}
+
             {% for i in comments %}
                 {% if i=="No comment for this number" %}
                     <br><br>
@@ -220,10 +220,10 @@
             {%endfor%}
         {% else %}
             <br><br>
-            <p style="color:gray;display: inline;font-size: 22px;">[*]GetComments Algorithm 1| Feature is on progress. Please wait.</p>
- 
+            <p style="color:gray;display: inline;font-size: 22px;">[*]GetComments Algorithm 1| Feature is In Progress. Please wait.</p>
+
         {%endif%}
-        {% if comments2 != "Feature On Progress" %}
+        {% if comments2 != "Feature In Progress" %}
             {% for i in comments2 %}
                 {% if i=="No comment for this number" %}
                     <br>
@@ -234,10 +234,10 @@
                     <p style="color:yellow;display: inline;font-size: 22px;">{{i}}</p>
                 {%endif%}
             {%endfor%}
-       
+
         {% else %}
             <br>
-            <p style="color:gray;display: inline;font-size: 22px;">[*]GetComments Algorithm 2| Feature is on progress. Please wait.</p>
+            <p style="color:gray;display: inline;font-size: 22px;">[*]GetComments Algorithm 2| Feature is In Progress. Please wait.</p>
             <br>
         {%endif%}
     {% else %}
@@ -245,11 +245,11 @@
         <p style="color:palevioletred;display: inline;font-size: 22px;">[-]Feature Not Selected - GetComments</p>
 
     {%endif%}
-   
+
 
     <hr style="color:white">
-  
+
     <br><br>
 
-    
+
 {%endblock%}
